@@ -7,3 +7,5 @@ How to use Book-Recommender-System:
 
 To view written code:
   1. open book_recommender_main.ipynb
+
+(data from Goodreads API)
