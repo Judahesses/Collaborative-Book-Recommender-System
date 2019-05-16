@@ -26,4 +26,5 @@ To view written code:
 </br>
 <img width="751" alt="Screen Shot 2019-05-16 at 2 24 31 PM" src="https://user-images.githubusercontent.com/38924028/57878379-e551ba00-77e7-11e9-9f2c-22144661e62d.png">
 
-<img width="339" alt="Screen Shot 2019-05-16 at 2 24 54 PM" src="https://user-images.githubusercontent.com/38924028/57878389-ebe03180-77e7-11e9-9c7c-b9a8ccaa16f3.png">
+<img width="344" alt="Screen Shot 2019-05-16 at 2 46 52 PM" src="https://user-images.githubusercontent.com/38924028/57879080-9c026a00-77e9-11e9-8bfb-79162a874a40.png">
+
