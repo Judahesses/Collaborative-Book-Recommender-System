@@ -10,5 +10,8 @@ To view written code:
 
 (data from Goodreads API)
 
-#### 
-![Top 20 Most Rated Book](top_20_most_rated_plt.png?raw=true "Top 20 Most Rated Book")
+### Data Visualization:
+</br> 
+<img width="1098" alt="top_most_rated_books" src="https://user-images.githubusercontent.com/38924028/57878110-547ade80-77e7-11e9-92bd-14f91fde8bf6.png">
+
+
