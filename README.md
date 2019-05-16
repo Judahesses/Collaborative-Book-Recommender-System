@@ -11,4 +11,4 @@ To view written code:
 (data from Goodreads API)
 
 #### 
-![Top 20 Most Rated Book](./top_20_most_rated_plt.png?raw=true "Top 20 Most Rated Book")
+![Top 20 Most Rated Book](top_20_most_rated_plt.png?raw=true "Top 20 Most Rated Book")
